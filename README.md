@@ -1,7 +1,5 @@
 ### Hey, I'm Ron 👋
 
-Software engineering intern @ Accenture, mechanical engineering student @ NIT Calicut.
-
 I spend most of my time on things outside coursework:
 
 **Ongoing work:**
@@ -14,5 +12,3 @@ Built on a Python medallion pipeline with a Node/Express backend and Supabase.
 A disk-based DBMS in C++, covering buffer management, B+ trees, and write-ahead logging.
 
 ---
-
-📌 Currently prepping for SWE roles — deep in DSA (graphs, DP, heaps) most days.
