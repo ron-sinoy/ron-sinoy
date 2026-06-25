@@ -1,25 +1,18 @@
 ### Hey, I'm Ron 👋
 
+Software engineering intern @ Accenture, mechanical engineering student @ NIT Calicut.
+
 I spend most of my time on things outside coursework:
 
-ongoing works:
-- **Poli Engine** — a platform that organizes Kerala political news into 
-  persistent topic threads instead of scattered articles. Built on a 
-  Python medallion pipeline with a Node/Express backend and Supabase.
-- **NITCbase** — a disk-based DBMS in C++, covering buffer management, 
-  B+ trees, and write-ahead logging.
-  
-<!--
-**ron-sinoy/ron-sinoy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Ongoing work:**
 
-Here are some ideas to get you started:
+🗞️ **Poli Engine**
+A platform that organizes Kerala political news into persistent topic threads instead of scattered articles.
+Built on a Python medallion pipeline with a Node/Express backend and Supabase.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+💾 **NITCbase**
+A disk-based DBMS in C++, covering buffer management, B+ trees, and write-ahead logging.
+
+---
+
+📌 Currently prepping for SWE roles — deep in DSA (graphs, DP, heaps) most days.
