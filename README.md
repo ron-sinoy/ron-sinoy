@@ -1,5 +1,5 @@
 ### Hey, I'm Ron 👋
-I spend most of my time on things outside coursework:
+I spend most of my time on projects outside coursework:
 
 ---
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
