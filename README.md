@@ -20,8 +20,8 @@ I spend most of my time on projects outside coursework:
 A platform that organizes Kerala political news into persistent topic threads instead of scattered articles.
 Built on a Python medallion pipeline with a Node/Express backend and Supabase.
 
-💾 NITCbase
-A disk-based DBMS in C++, covering buffer management, B+ trees, and write-ahead logging.
+📟Inverse PINN Heatmapping
+Ambitious project on creating a full heatmap of a processor from limited number of sensors and its temperature data.
 ```
 ---
 
